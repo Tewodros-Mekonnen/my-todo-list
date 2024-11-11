@@ -9,5 +9,6 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'todo';
+  title = 'Welcome!';
+  message = 'This is my Todo list';
 }
